@@ -1,0 +1,24 @@
+.title {
+	font-size: 48px;
+	font-family: Palantino, 'Palatino linotype', serif;
+	color:darkturquoise	
+}
+
+#thijs-name {
+	font-size: 14px;
+	font-family: 'arial', sans-serif;
+	color: rgba(252,2,6,1.00)
+}
+
+.dummy-text {
+	border: 4px solid grey;
+	padding: 10px;
+	background-color:black;
+	font-size: 18px;
+	font-family: 'Courier New', sans-serif;
+	color: #FFFFFF;
+}
+
+img {
+	width: 320px
+}
